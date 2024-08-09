@@ -1,0 +1,6 @@
+Tags :-Are html tags which understand by browser.
+tags are of two types open and close tags.
+1)open tag:-which does not have any range.
+ex:-<br/><hr:horizontal row/><img/> 
+2)close tag:-It have range.
+ex:-<html></html><p></p><div></div><body><head></head></body>
